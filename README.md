@@ -8,7 +8,7 @@ Find out which platforms, influencer categories and campaign types bring the mos
 
 ## Dataset
 
-Data source: [Influencer Marketing ROI Dataset](https://www.kaggle.com/datasets/tfisthis/influencer-marketing-roi-dataset) by tfisthis on Kaggle, licensed under [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). 
+The dataset file is included in this repository. Original source: [Influencer Marketing ROI Dataset](https://www.kaggle.com/datasets/tfisthis/influencer-marketing-roi-dataset) by tfisthis on Kaggle, licensed under [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
 150,000 campaigns with platform, influencer category, campaign type, start and end dates,
 engagements, estimated reach and product sales.
@@ -54,8 +54,5 @@ Python · pandas · Matplotlib · SciPy · Google Colab · Claude (AI assistant)
 
 ## How to Run
 
-1. Download the dataset from Kaggle.
-2. Open `influencer_marketing_analysis.ipynb` in Google Colab.
-3. Upload the CSV file to your Google Drive and update the file path in Part 1.
-4. Run all cells (Runtime → Run all).
-
+1. Open `influencer_marketing_analysis.ipynb` in Google Colab.
+2. Run all cells (Runtime → Run all) — the dataset is loaded directly from this repository.
